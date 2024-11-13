@@ -1,8 +1,7 @@
 # Bank-Customer-Churn-Prediction-Model
-# Bank Customer Churn Prediction
 
 ## Project Overview
-This project focuses on designing and training a neural network model to predict customer churn for a bank. The model identifies customers likely to leave within the next six months based on their attributes. The primary goal is to maximize accuracy and F1-score.
+This project focuses on designing and training a neural network model to predict customer churn for a bank. The model identifies customers likely to leave within the next six months based on their attributes. The primary goal is to maximize accuracy and F1 score.
 
 ## Dataset
 The dataset contains 10,000 samples with 14 features, including:
